@@ -1,4 +1,4 @@
-Olá, eu sou o Marcos  🤩
+Olá, eu sou o Marcos  
 
 
 - 🔭 Atualmente trabalhando no ramo Administrativo. 
