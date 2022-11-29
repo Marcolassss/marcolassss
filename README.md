@@ -1,7 +1,6 @@
-Olá, eu sou o Marcos  
+Olá, eu sou o Marcos.
 
 
-- 🔭 Atualmente trabalhando no ramo Administrativo. 
 - 🌱 Estudando sobre Liguangem de programação, focado em ser um desenvolvedor FULL STACK!
 - 📫 Contate-me no email: Marcosviniciuspro4@gmail.com
 - ⚡ Fun fact: BrGraphics is my Kingdom
