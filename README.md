@@ -1,7 +1,7 @@
 Olá, eu sou o Marcos.
 
 
-- 🌱 Estudando sobre Liguangem de programação, focado em ser um desenvolvedor FULL STACK!
+- 🌱 Estudando sobre Liguagem de programação, focado em ser um desenvolvedor FULL STACK!
 - 📫 Contate-me no email: Marcosviniciuspro4@gmail.com
 - ⚡ Fun fact: BrGraphics is my Kingdom
 <div align="center">
